@@ -1,0 +1,10 @@
+exa_py
+python-dotenv
+beautifulsoup4
+lxml
+lxml_html_clean
+openai
+trafilatura
+python-docx
+flask
+gunicorn
